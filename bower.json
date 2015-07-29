@@ -1,0 +1,25 @@
+{
+  "name": "github-profiles-angular",
+  "version": "0.0.0",
+  "authors": [
+    "Michael Arnott <arnottmj@aol.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.3",
+    "angular-resource": "~1.4.3"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.3",
+    "angular-route": "~1.4.3"
+  }
+}
